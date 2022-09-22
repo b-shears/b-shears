@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 *** *** ***
 📚  Student at Turing School of Software & Design, 2021<br/>
-[![LinkedIn: bryan-shears][linkedin-badge]][LinkedIn]
+[![LinkedIn: in/bryan-shears/][linkedin-badge]][LinkedIn]
 [![Email: brshears@gmail.com][gmail-badge]][gmail]
 
 
