@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 # Bryan Shears | he / him <br/>
 
 *** *** ***
-
-
+- 🔭 I’m currently working on a fullstack app with a Ruby on Rails backend and JavaScript/React frontend. 
+- 🌱 I’m currently learning JavaScript/React
+- 🤔 I’m looking for help with JavaScript/React
 *** *** ***
 📚  Student at Turing School of Software & Design, 2021<br/>
 [![LinkedIn: in/bryan-shears/][linkedin-badge]][LinkedIn]
