@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 ### TOOLS 
 <p>
-  <img src="https://img.shields.io/badge/Atom-417b80.svg?&style=for-the-badge&logo=atom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-417b80.svg?&style=for-the-badge&logo=atom&logoColor=white" />
   <img src="https://img.shields.io/badge/git-417b80.svg?&style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-417b80.svg?&style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Heroku-417b80.svg?&style=for-the-badge&logo=heroku&logoColor=white" />
