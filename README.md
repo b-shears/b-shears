@@ -48,7 +48,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/postico-417b80.svg?&style=for-the-badge&logo=Postico&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-417b80.svg?&style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Slack-417b80.svg?&style=for-the-badge&logo=slack&logoColor=white" />
-  <img src="https://img.shields.io/badge/travis--ci-417b80.svg?&style=for-the-badge&logo=travis&logoColor=white" />
+  <img src="https://img.shields.io/badge/circle--ci-417b80.svg?&style=for-the-badge&logo=travis&logoColor=white" />
 </p>
 
 ### GEMS 
