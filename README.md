@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ruby%20-417b80.svg?&style=for-the-badge&logo=ruby&logoColor=white" />
   <img src="https://img.shields.io/badge/html5%20-417b80.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3%20-417b80.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20-417b80.svg?style=for-the-badge&logo=SQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL%20-417b80.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/ActiveRecord%20-417b80.svg?&style=for-the-badge&logo=rubyonrails&logoColor=white" />
 </p>
 
