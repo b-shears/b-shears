@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a fullstack app with a Ruby on Rails backend and JavaScript/React frontend. 
+- 🔭 I’m currently working on a fullstack app called MaltMatcher. MaltMatcher has a Ruby on Rails backend and JavaScript/React frontend. 
 - 🌱 I’m currently learning JavaScript/React
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with JavaScript/React
