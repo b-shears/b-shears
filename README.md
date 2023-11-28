@@ -79,7 +79,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/REST-417b80.svg?&style=for-the-badge&logo=REST&logoColor=white" />
 </p>
 
-[![Bryan's github stats](https://github-readme-stats.vercel.app/api?username=b-shears)](https://github.com/b-shears/github-readme-stats)
 
 [GitHub]: https://github.com/b-shears
 [gmail]: mailto:brshears@gmail.com
