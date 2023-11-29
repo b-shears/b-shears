@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript/React
 - 🤔 I’m looking for help with JavaScript/React
 *** *** ***
-📚  Student at Turing School of Software & Design, 2021<br/>
+📚  Student at Turing School of Software & Design, 2022<br/>
 [![LinkedIn: in/bryan-shears/][linkedin-badge]][LinkedIn]
 [![Email: brshears@gmail.com][gmail-badge]][gmail]
 
