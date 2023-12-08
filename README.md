@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Bryan Shears | he / him <br/>
+# Bryan Shears <br/>
 
 *** *** ***
 - 🔭 I’m currently working on a fullstack app with a Ruby on Rails backend and JavaScript/React frontend. 
